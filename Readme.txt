@@ -1,10 +1,3 @@
-TERM PROJECT PROGRAM SUBMISSION
---------------------------
-NAME : RAHUL PATIDAR
-ROLLNO : 20223073
-MCA 4TH SEMESTER
-SUBMITTED TO : DR. SHYAM SUNDAR
-SUBJECT:-WEB TECHNOLOGY - ADVANCE JAVA
 -------------------------------
 ABSTRACT:-
 In this project, I have tried to build an E-commerce website, which can simulate all the basic controls that an actual shopping website has.
@@ -34,7 +27,6 @@ out operations in a smooth and effective manner.
 TECHNOLOGIES USED:-
 ➢ HTML,
 ➢ CSS,
-➢ Javascript,
 ➢ JSP,
 ➢ JDBC,
 ➢ MySQL,
